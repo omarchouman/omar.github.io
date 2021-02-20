@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,300i,400,700");
-
 /*********** Global Styles********/
 #PopupSignupForm_0 {
   z-index: 99999;
@@ -60,18 +58,6 @@ h6 {
   -webkit-box-shadow: none;
   box-shadow: none;
 }
-
-/*#my-modal {
-	display: none;
-}
-
-.my-form {
-	margin-top: 20em;
-}
-
-.custombox-content {
-	background: #212332;
-}*/
 
 /**********************************/
 
